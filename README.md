@@ -1,4 +1,4 @@
-Hi , I'm Tunahan Filiz. I'm working on IOS application development. I'm sharing my projects here . I usually use the SWIFT programming language for IOS projects. I'm an ios developer who won the 2nd place in teknofest flying car design competition.
+Hi , I'm Tunahan Filiz. I'm working on iOS application development. I'm sharing my projects here . I usually use the SWIFT programming language for IOS projects. I'm an ios developer who won the 2nd place in teknofest flying car design competition.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunahanfiliz&label=Profile%20views&color=0e75b6&style=flat" alt="tunahanfiliz" /> </p>
 
 <h3 align="left">Connect with me:</h3>
